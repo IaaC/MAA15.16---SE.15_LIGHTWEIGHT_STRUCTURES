@@ -1,6 +1,9 @@
 # MAA-15SE.15_LIGHTWEIGHT_STRUCTURES
 
-ADAPTIVE NESTING
+#### _Tutor:_ Silvia Brandi 
+#### _Computational Expert:_ Rodrigo Aguirre 
+
+###ADAPTIVE NESTING
 
 How do we inhabit in the desert if there is just sand? And the north pole where the only material is ice? How would we inhabit the bottom of the sea or the surface of Mars? And how will we build the habitat of the future and which will it be the material available?
 
